@@ -1,0 +1,8 @@
+2025-07-13 22:26:30,134 - INFO - Process started.
+2025-07-13 22:26:31,139 - INFO - Attempting to connect to MySQL database at 'localhost:3306'...
+2025-07-13 22:26:33,140 - INFO - Connection successful.
+2025-07-13 22:26:33,140 - INFO - User 'root' authenticated.
+2025-07-13 22:26:34,141 - INFO - Executing query: 'SELECT * FROM users;'
+2025-07-13 22:26:36,147 - INFO - Query executed successfully. 10 rows returned.
+2025-07-13 22:26:37,152 - INFO - Closing connection.
+2025-07-13 22:26:38,158 - INFO - Process finished.
