@@ -8,6 +8,22 @@ The application consists of two main components:
 *   `start_chat.sh`: A shell script that uses OLLAMA to create a temporary chat model with the contents of a log file as context. This allows you to chat with your log files.
 *   **Log files**: Plain text files containing log data (`mysql_connection_detailed.log`, `detailed_log.txt`, etc.).
 
+## File Hierarchy
+
+```
+.
+├── detailed_log.txt
+├── f1.cpp
+├── log generator.cpp
+├── log_generator
+├── log_generator.py
+├── mcp_server.py
+├── mysql_connection_detailed.log
+├── README.md
+├── start_chat.sh
+└── venv/
+```
+
 ## How to run the project
 
 1.  **Start the server**: In one terminal, run the Python server:
