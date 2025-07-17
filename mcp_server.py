@@ -7,6 +7,7 @@ LOG_FILES_DIR = os.path.dirname(os.path.abspath(__file__))
 ALLOWED_LOG_FILES = [
     "mysql_connection.log",
     "mysql_connection_detailed.log",
+    "detailed_log.txt",
 ]
 
 class LogServer(http.server.SimpleHTTPRequestHandler):
