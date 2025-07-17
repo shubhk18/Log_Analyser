@@ -52,6 +52,10 @@ The application consists of two main components:
 6.  The user can now ask questions about the log file in the chat.
 7.  When the chat is closed, the temporary model and its files are automatically cleaned up.
 
+## External Tools and Licenses
+*   **OLLAMA**: Used for running language models locally. It is open-source and distributed under the **MIT License**.
+*   **curl**: A command-line tool used for transferring data with URLs. It is distributed under a permissive open-source license, similar to the **MIT/X license**.
+
 
 ## Test Evidence
 **MCP Server-**
