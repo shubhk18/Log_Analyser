@@ -54,12 +54,15 @@ The application consists of two main components:
 
 
 ## Test Evidence
-
+**MCP Server-**
 <img width="1402" height="230" alt="image" src="https://github.com/user-attachments/assets/5fd8fb53-f1e5-4258-b600-2b7002e51748" />
 
-<img width="910" height="718" alt="image" src="https://github.com/user-attachments/assets/3d84b612-6e56-4c62-9464-e85bc80b08c7" />
 
-chat window-
+**Log server-**
+<img width="1900" height="718" alt="image" src="https://github.com/user-attachments/assets/defa5eb8-2c0a-4b06-bb9d-6273b6453228" />
+
+
+**chat window-**
 <img width="2728" height="718" alt="image" src="https://github.com/user-attachments/assets/d5156cc0-11f1-4fd3-846f-eba617cced2c" />
 
 
