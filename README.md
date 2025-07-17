@@ -51,3 +51,23 @@ The application consists of two main components:
 5.  An interactive chat session is started with the temporary model.
 6.  The user can now ask questions about the log file in the chat.
 7.  When the chat is closed, the temporary model and its files are automatically cleaned up.
+
+
+## Test Evidence
+
+<img width="1402" height="230" alt="image" src="https://github.com/user-attachments/assets/5fd8fb53-f1e5-4258-b600-2b7002e51748" />
+
+<img width="910" height="718" alt="image" src="https://github.com/user-attachments/assets/3d84b612-6e56-4c62-9464-e85bc80b08c7" />
+
+chat window-
+<img width="2728" height="718" alt="image" src="https://github.com/user-attachments/assets/d5156cc0-11f1-4fd3-846f-eba617cced2c" />
+
+
+
+
+
+
+
+
+
+       
